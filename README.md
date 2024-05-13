@@ -4,15 +4,18 @@
 # Hooks App
 
 1.- Clonar proyecto
+
 2.- instalar dependencias
 ```
 npm install
 ```
+
 3.- levantar la aplicación
 ```
 npm run dev
 ```
-3.- ruta de  la aplicación
+
+4.- ruta de  la aplicación
 ```
 http://localhost:5173/
 ```
