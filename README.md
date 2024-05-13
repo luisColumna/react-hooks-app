@@ -12,3 +12,7 @@ npm install
 ```
 npm run dev
 ```
+3.- ruta de  la aplicación
+```
+http://localhost:5173/
+```
